@@ -1,5 +1,4 @@
 # BioStitcher
-A biological-structure-guided stitching framework for super-resolution localization microscopy
-
+ A Geometric-Topological Structure Guided Stitching Framework for Single-molecule Localization Microscopy
 
 Notices: The plugin-BioStitcher will be launched soon.
